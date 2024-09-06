@@ -1,0 +1,128 @@
+@import url('https;//fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=rewaleway:wght@400;600&display=swap');
+body
+{
+font-family: 'Roboto',sans-serif;
+line-height: 1.6;
+color: #333;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+background-repeat: no-repeat;
+background-position: center;
+}
+.container
+{
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 1200px;
+    background-color: #ffffff;
+    box-shadow: 0 40px 8px rgba(0, 0, 0, 1.0);
+    box-sizing: border-box;
+}
+h1, h2
+{
+    font-family: 'Ralaway', sans-serif;
+    color: #2c3e50;
+}
+h1
+{
+    font-size: 2.5em;
+    text-align: 10px;
+    color: #d35400;
+}
+.intro-section
+{
+    padding: 20px;
+    background-color: #eaf2f8;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.dedication-section
+{
+padding: 20px;
+background-color: #eaf2f8;
+border: 10px;
+margin-bottom: 20px;
+}
+.dedication-content
+{
+    text-align: center;
+}
+.dedication-image
+{
+   width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 8px;
+    margin: auto;
+    margin-bottom: 20px;
+    overflow: hidden;
+    display: block;
+}
+.meal-section
+{
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+table
+{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+table th, td
+{
+    border: 1px solid #ddd;
+}
+th,td
+{
+    padding: 12px;
+    text-align: center;
+}
+th
+{
+    background-color: #d35400;
+    color: white;
+}
+text-decoration:hover
+{
+background-color: #f9e79f;
+cursor: pointer;
+}
+.meal-interchange-section
+{
+    padding: 20px;
+    background-color: #e8f6f3;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.meal-interchange-section p
+{
+    font-size: 1.2em;
+    color: #34495e;
+}
+button
+{
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    margin: 10px 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+button:hover
+{
+    background-color: #2980b9;
+    
+}
+
+
